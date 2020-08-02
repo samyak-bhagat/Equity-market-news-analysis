@@ -37,11 +37,11 @@
      
   
 ##**1.Web Scraping**
-      The very first part of the project is to scrap all the required data. The data required is being scraped from various sources and the list is:
-      > moneycontrol- @https://www.moneycontrol.com/
-      > Rediff.com- @https://www.rediff.com/
-      > livemint- @https://www.livemint.com/
-      > Screener.in - @https://www.screener.in/
+ The very first part of the project is to scrap all the required data. The data required is being scraped from various sources and the list is:
+             > moneycontrol- @https://www.moneycontrol.com/
+             > Rediff.com- @https://www.rediff.com/
+             > livemint- @https://www.livemint.com/
+             > Screener.in - @https://www.screener.in/
       
    From these are the very webistes for the use.
    **To do scrapping following libraries have been used:

@@ -36,7 +36,7 @@
      
      
   
-##**1.Web Scraping**##
+## **1.Web Scraping**
  The very first part of the project is to scrap all the required data. The data required is being scraped from various sources and the list is:
              > moneycontrol- @https://www.moneycontrol.com/
              > Rediff.com- @https://www.rediff.com/

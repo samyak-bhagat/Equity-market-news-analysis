@@ -47,7 +47,9 @@
 **To do scrapping following libraries have been used:**
 1.Beautiful Soup- Beautiful Soup is a Python library for pulling data out of HTML and XML files
    >pip install beautifulsoup
+   
 2.urllib- Collects several modules for working with URls
    >pip install urllib
+
 3.requests- Standard for making HTTP requests
   >pip install requests

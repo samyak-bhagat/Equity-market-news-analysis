@@ -13,7 +13,7 @@
 
 
 **Let us first crawl the workflow of the project:**
-      1. Web Scraping
-      2. Data Extraction
-      3. Text Analytics(PDF)
-      4. Deploying on UI(Streamlit)
+      > Web Scraping
+      > Data Extraction
+      > Text Analytics(PDF)
+      > Deploying on UI(Streamlit)

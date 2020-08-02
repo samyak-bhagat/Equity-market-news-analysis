@@ -63,7 +63,7 @@
 
 After the successful retrieval and processing of data, the product has to be displayed somewhere. So, the UI(user interface) is built upon the newly developed open-source app framework that is Streamlit[https://www.streamlit.io/]. Various components of streamlit have been taken in use to develop the required UI.
 
-## **1. Web Scraping**
+## **Few of the components are:**
              > st.sidebar
              > st.title
              > st.selectbox

@@ -63,9 +63,13 @@ After the successful retrieval and processing of data, the product has to be dis
 
 Few of the components:
  >st.sidebar
+ 
  >st.title
+ 
  >st.selectbox
+ 
  >st.subheader
+ 
  >st.button
  
  Supporting Libraries with Streamlit-

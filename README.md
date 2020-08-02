@@ -4,23 +4,24 @@
 
 
 ## Contributors to this project are:
-      @codracker
-      @HarshAditya23
-      @viralnatani
-      @samyak-bhagat
-      @sanyukta0830
-      @sVanshika
+   1. Muskaan Jain- https://github.com/codracker
+   2. Harshaditya Gaur- https://github.com/HarshAditya23
+   3. Viral Natani- github.com/viralnatani
+   4. Samyak Bhagat- https://github.com/samyak-bhagat
+   5. Vanshika Sharma- https://github.com/sVanshika
+   6. Sanyukta Tanwar- https://github.com/sanyukta0830
+
 
 
 
 
 ## **This project is being built on the following environment:**
-    **Processor**: Intel(R)
-    **OS**: Windows 7,8,10
-    **IDE**: Anaconda Distributions(Jupyter)
-    **Language**: Python3
-    **Web Browser**: Google Chrome/Mozilla Firefox
-    **Additional Softwares**: MS-Excel,Adobe PDF Reader, Notepad
+    Processor: Intel(R)
+    OS: Windows 7,8,10
+    IDE: Anaconda Distributions(Jupyter)
+    Language: Python3
+    Web Browser: Google Chrome/Mozilla Firefox
+    Additional Softwares: MS-Excel,Adobe PDF Reader, Notepad
 
 
 

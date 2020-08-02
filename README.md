@@ -36,21 +36,42 @@
      
      
   
-## **1.Web Scraping**
+## **1. Web Scraping**
          The very first part of the project is to scrap all the required data. The data required is being scraped from various sources and the list is:
-             > moneycontrol- @https://www.moneycontrol.com/
-             > Rediff.com- @https://www.rediff.com/
-             > livemint- @https://www.livemint.com/
+             > Moneycontrol - @https://www.moneycontrol.com/
+             > Rediff.com - @https://www.rediff.com/
+             > Livemint - @https://www.livemint.com/
              > Screener.in - @https://www.screener.in/
       
    From these are the very webistes for the use.
+   
 **To do scrapping following libraries have been used:**
 
 1.Beautiful Soup- Beautiful Soup is a Python library for pulling data out of HTML and XML files
    >pip install beautifulsoup
    
-2.urllib- Collects several modules for working with URls
+2.urllib- Collects several modules for working with URls- i.e. requests for opening and reading urls
    >pip install urllib
 
 3.requests- Standard for making HTTP requests
   >pip install requests
+
+
+##**2. Data Extraction**
+##**3. UI-Streamlit**
+After the successful retrieval and processing of data, the product has to be displayed somewhere. So, the UI(user interface) is built upon the newly developed open-source app framework that is Streamlit[https://www.streamlit.io/]. Various components of streamlit have been taken in use to develop the required UI.
+
+Few of the components:
+ >st.sidebar
+ >st.title
+ >st.selectbox
+ >st.subheader
+ >st.button
+ 
+ Supporting Libraries with Streamlit-
+ 
+ 1. Pandas
+ >pip install pandas
+ 
+ 2. Numpy
+ >pip install numpy

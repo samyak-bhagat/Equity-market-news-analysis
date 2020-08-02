@@ -18,10 +18,10 @@
 ## **This project is being built on the following environment:**
     Processor: Intel(R)
     OS: Windows 7,8,10
-    IDE: Anaconda Distributions(Jupyter)
+    IDE: Anaconda Distributions(Jupyter Notebook)
     Language: Python3
     Web Browser: Google Chrome/Mozilla Firefox
-    Additional Softwares: MS-Excel,Adobe PDF Reader, Notepad
+    Additional Softwares: MS-Excel, Adobe PDF Reader, Notepad
 
 
 

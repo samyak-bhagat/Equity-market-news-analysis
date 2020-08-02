@@ -37,10 +37,10 @@
      
   
 ## **1. Web Scraping**
-             > Moneycontrol - @https://www.moneycontrol.com/
-             > Rediff.com - @https://www.rediff.com/
-             > Livemint - @https://www.livemint.com/
-             > Screener.in - @https://www.screener.in/
+      > Moneycontrol - @https://www.moneycontrol.com/
+      > Rediff.com - @https://www.rediff.com/
+      > Livemint - @https://www.livemint.com/
+      > Screener.in - @https://www.screener.in/
       
    From these are the very webistes for the use.
    
@@ -61,14 +61,21 @@
 
 ## **3. User Interface** 
 
+Streamlit Installation
+>pip install streamlit
+
+To run Streamlit
+>Type Streamlit run [Filename]
+
+
 After the successful retrieval and processing of data, the product has to be displayed somewhere. So, the UI(user interface) is built upon the newly developed open-source app framework that is Streamlit[https://www.streamlit.io/]. Various components of streamlit have been taken in use to develop the required UI.
 
 ## **Few of the components are:**
-             > st.sidebar
-             > st.title
-             > st.selectbox
-             > st.subheader
-             > st.button
+    > st.sidebar
+    > st.title
+    > st.selectbox
+    > st.subheader
+    > st.button
       
     
  Supporting Libraries with Streamlit-

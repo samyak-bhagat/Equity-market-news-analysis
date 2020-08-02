@@ -59,7 +59,7 @@
 ## **2. Data Extraction**
 
 
-## **3. UI-Streamlit** 
+## **3. User Interface** 
 
 After the successful retrieval and processing of data, the product has to be displayed somewhere. So, the UI(user interface) is built upon the newly developed open-source app framework that is Streamlit[https://www.streamlit.io/]. Various components of streamlit have been taken in use to develop the required UI.
 

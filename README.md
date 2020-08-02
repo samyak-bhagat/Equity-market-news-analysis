@@ -36,7 +36,7 @@
      
      
   
-##**1.Web Scraping**
+##**1.Web Scraping**##
  The very first part of the project is to scrap all the required data. The data required is being scraped from various sources and the list is:
              > moneycontrol- @https://www.moneycontrol.com/
              > Rediff.com- @https://www.rediff.com/
@@ -47,10 +47,10 @@
    **To do scrapping following libraries have been used:
       >Beautiful Soup- Beautiful Soup is a Python library for pulling data out of HTML and XML files
                       To install Beautiful Soup :
-                              >pip install beautifulsoup4
+                              >pip install beautifulsoup
       >urllib- Collects several modules for working with URls
                      To install urllib:
-                              >pip install urllib3
+                              >pip install urllib
       >requests- Standard for making HTTP requests
                      To install requests:
                               >pip install requests

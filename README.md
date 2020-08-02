@@ -6,7 +6,7 @@
 ## Contributors to this project are:
    1. Muskaan Jain- https://github.com/codracker
    2. Harshaditya Gaur- https://github.com/HarshAditya23
-   3. Viral Natani- github.com/viralnatani
+   3. Viral Natani- https://github.com/viralnatani
    4. Samyak Bhagat- https://github.com/samyak-bhagat
    5. Vanshika Sharma- https://github.com/sVanshika
    6. Sanyukta Tanwar- https://github.com/sanyukta0830

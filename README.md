@@ -4,12 +4,12 @@
 
 
 ## Contributors to this project are:
-**@codracker
-@HarshAditya23
-@viralnatani
-@samyak-bhagat
-@sanyukta0830
-@sVanshika
+      @codracker
+      @HarshAditya23
+      @viralnatani
+      @samyak-bhagat
+      @sanyukta0830
+      @sVanshika
 
 
 

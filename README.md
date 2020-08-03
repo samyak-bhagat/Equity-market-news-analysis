@@ -272,7 +272,7 @@ No. paid features and data provided is free of cost to the user plus we have pro
 
 ## **WOW Factor **
 The most amazing part is the reliability. For the reliability two things have been take that is:
- 1. Source score
- 2. Frequency
+     1. Source score
+     2. Frequency
  
  

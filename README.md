@@ -1,29 +1,42 @@
 # sm445_Data_Pirates
 **This repository holds the project under problem statemet SM445 of SIH2020. The problem statement is provided by FIS Global. The project is a corporate action bot.**
 
+[INTRODUCTION]
+
+##**Team Name-Data_Pirates
+
 
 
 ## Contributors to this project are (Team Member - JK Lakshmipat University, Jaipur):
    1. Muskaan Jain- https://github.com/codracker
-      Email - muskaanjain@jklu.edu.in, Mobile - 8384854406
+      EmailID - muskaanjain@jklu.edu.in, Mobile - 8384854406
    2. Harshaditya Gaur- https://github.com/HarshAditya23
-      Email - harshadityagaur@jklu.edu.in Mobile - 9116190180
+      EmailID - harshadityagaur@jklu.edu.in Mobile - 9116190180
    3. Viral Natani- https://github.com/viralnatani
-      Email - viralnatani@jklu.edu.in, Mobile - 9414834346
+      EmailID - viralnatani@jklu.edu.in, Mobile - 9414834346
    4. Samyak Bhagat- https://github.com/samyak-bhagat
-      Email - samyakbhagat@jklu.edu.in, Mobile - 7976378845
+      EmailID - samyakbhagat@jklu.edu.in, Mobile - 7976378845
    5. Vanshika Sharma- https://github.com/sVanshika
-      Email - vanshikasharma@jklu.edu.in, Mobile - 8890776688
+      EmailID - vanshikasharma@jklu.edu.in, Mobile - 8890776688
    6. Sanyukta Tanwar- https://github.com/sanyukta0830
-      Email - sanyuktatanwar@jklu.edu.in, Mobile - 9414177538
+      EmailID - sanyuktatanwar@jklu.edu.in, Mobile - 9414177538
 
 ## Mentors:
    1. Dr. Amit Sinhal 
-      Email - amit.sinhal@jklu.edu.in
+      EmailID - amit.sinhal@jklu.edu.in
       Mobile - +919425476655
    2. Mr. Santosh Kumar 
-      Email - santosh.verma@jklu.edu.in
+      EmailID - santosh.verma@jklu.edu.in
       Mobile - +919711492804
+
+##**Problem Statement**
+The Corporate Action Robot is to be developed for retrieving accurate, and complete information on historical, current, and future expected corporate action in timely manner from free sources.Capability of crawling public web pages to retrieve information (Historical,current, future)
+Ability of process information available in free text format like pdf, and MS word document 
+Extract important information from retrieved pages/files on corporate action
+
+
+
+[RESOURCES]
 
 
 
@@ -34,6 +47,20 @@
     Language: Python3
     Web Browser: Google Chrome/Mozilla Firefox
     Additional Softwares: MS-Excel, Adobe PDF Reader, Notepad
+    Python Language
+            Libraries- Numpy, Pandas, beautifulsoup, urllib, requests
+
+    IDE:
+          Anaconda Distributions(Jupyter)     
+
+    Frontend:
+          Streamlit
+
+    Backend:
+           Spacy
+ 
+    Database:
+          MySql
 
 
 

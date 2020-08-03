@@ -84,7 +84,7 @@ Extract important information from retrieved pages/files on corporate action
 
 
   
-## **ARCHITECTURE DIAGRAM ** 
+## **Architecture Diagram** 
   
  ![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
   
@@ -112,7 +112,7 @@ Extract important information from retrieved pages/files on corporate action
 
 
 
-## **ML MODEL **
+## **ML MODEL**
    >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations[https://github.com/codracker/sm445_Data_Pirates/blob/master/InformationExtraction/NLPmodel.ipynb]
 
 

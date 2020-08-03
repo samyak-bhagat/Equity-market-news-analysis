@@ -115,11 +115,6 @@ Extract important information from retrieved pages/files on corporate action
   >pip install requests
 
 
-## **2. Data Extraction**
-
-
-## **3. User Interface** 
-
 
 
 
@@ -128,10 +123,104 @@ Extract important information from retrieved pages/files on corporate action
 
 
 
+
+[**Current Progress**]
+Data source for corporate actions (CA) 
+1.Is it configurable, if yes then what all is configurable?   **Yes**, it is configurable , we are parsing the html code of the website from which we are extracting tabular value , paragraphs(free text) and document links. 
+
+2.Does it support any source, or only specific sources? Name them if specific: It supports multiple sources:-
+ > www.moneycontrol.com
+ > money.rediff.com/companies/news/Bonus
+ > www.screener.in
+ > mnacritique.mergersindia.com -->/search/bse?s=bse&category=M-and-A-Digest#
+
+3.Does system support intelligent crawling to identify which all sources can provide data?: No
+
+
+
+4.Type of data gathered {Tabular, structured, free text}:
+   >Free Text
+   >Tabular data (structured data which can be requestb according to the CA)
+   >PDF's links of the company announcements 
+
+
+
+5.Type of document supported {PDF, MS Word, MS Excel, html, etc.} : PDF,MS Word,html
+
+
+6.Data collection is scheduled, real time, both: Data collection is on realtime , i.e, whenever the user requests to collect data it will execute and will always get the latest data
+
+
+7.Technology / tool used: Beautifulsoip,urllib,requests
+
+
+
+##**Data Extraction**
+
+1.How is data extracted?: Web crawler outputs continous stream of data (Text strings) which is fed into NLP model.
+
+
+2.What all datapoints systems can extract from free text?: NLP model: A built-in RNN is trained on Spacy library with custom entities.
+
+
+3.Types of documents successfully processed : This neural net identifies pattern in data, as the position of entity present.System is able to extract key points related to considered corporate actions.
+
+
+4.Links of various data that you are able to process, and to what extent (Complete / Partial):
+
+
+
+
+
+5.Technology / tool used: We were successfully able to extract data from PDF (scanned/typed), using tessaract OCR.
+
+
+
+
+
 ##**Corporate Action scope covered.**
-CA types supported- Dividends,
+1.CA types supported- Dividends,
                     Could be extended to :Bonus, Splits,AGM/EGM(Board Meetings),Mergers & Acquisitions
-Financial market supportedc.Historical / currentd.Workflow supportedi.New announcements of CAii.Modificationsiii.Cancellationsiv.Market talks of CA before announcemente.Do system compliment / merge data from various sources to make it complete
+                    
+                    
+2.Financial market supported: No
+
+
+3.Historical / current: Historical data(extracted from the tabular data of different websites)
+		-> Dividend
+		->Rights
+		->Board meetings
+		->AGM/EGM
+		->Bonus
+		->Split
+		->Quater results
+		->Profit and loss
+		->Balance sheet
+		->Cash flows
+		->Ratios
+		->Share Holding patterns
+	
+   
+   Current data
+		Scrapping of Data
+			->Free Text(News articles , summary of corporate announcements , Blogs)
+			->PDF's(Documents from company of CA)
+		Processing of The data( Engine )
+			(viral part unse poochlo eek bar)
+
+4.Workflow supported:
+   i.New announcements of CA
+   ii.Modifications
+   iii.Cancellations
+   iv.Market talks of CA before announcement
+   
+  
+  
+  
+ 5.Do system compliment / merge data from various sources to make it complete: No
+
+
+
 
 
 

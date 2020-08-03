@@ -204,9 +204,9 @@ Data source for corporate actions (CA)
    Current data
 		Scrapping of Data
 			->Free Text(News articles , summary of corporate announcements , Blogs)
-			->PDF's(Documents from company of CA)
+			->PDF's links(Documents from company of CA)
 		Processing of The data( Engine )
-			(viral part unse poochlo eek bar)
+			
 
 4.Workflow supported:
    i.New announcements of CA

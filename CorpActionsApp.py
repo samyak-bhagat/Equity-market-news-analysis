@@ -14,7 +14,7 @@ from company_details import *
 # In[4]:
 
 
-company = pd.read_csv('moneycontrol_companies.csv')
+company = pd.read_csv('company.csv')
 company = company.sort_values(by=['Company Name'], ignore_index=True)
 tolist=list(company['Company Name'])
 main_title = st.title("Corporate Action Robot")

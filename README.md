@@ -77,10 +77,24 @@ Extract important information from retrieved pages/files on corporate action
       > Deploying on UI(Streamlit)
      
      
- ##**Refrences**
+ ## **Refrences**
       1.https://www.investopedia.com/
       
      
+   
+   
+## **Inputs Supported by System**
+
+
+[**DESIGN**]
+  
+  
+##**ARCHITECTURE DIAGRAM ** 
+  
+  
+  
+  
+##**DATA FLOW**
   
 ## **1. Web Scraping**
       > Moneycontrol - @https://www.moneycontrol.com/
@@ -88,7 +102,6 @@ Extract important information from retrieved pages/files on corporate action
       > Livemint - @https://www.livemint.com/
       > Screener.in - @https://www.screener.in/
       
-   From these are the very webistes for the use.
    
 **To do scrapping following libraries have been used:**
 
@@ -131,3 +144,8 @@ After the successful retrieval and processing of data, the product has to be dis
  
  2. Numpy
  >pip install numpy
+
+
+
+##**ML MODEL**
+   >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations

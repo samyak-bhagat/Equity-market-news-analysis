@@ -3,15 +3,23 @@
 
 
 
-## Contributors to this project are:
+## Contributors to this project are (Team Member - JK Lakshmipat University, Jaipur):
    1. Muskaan Jain- https://github.com/codracker
+      Email - muskaanjain@jklu.edu.in, Mobile - 8384854406
    2. Harshaditya Gaur- https://github.com/HarshAditya23
+      Email - harshadityagaur@jklu.edu.in Mobile - 9116190180
    3. Viral Natani- https://github.com/viralnatani
+      Email - viralnatani@jklu.edu.in, Mobile - 9414834346
    4. Samyak Bhagat- https://github.com/samyak-bhagat
+      Email - samyakbhagat@jklu.edu.in, Mobile - 7976378845
    5. Vanshika Sharma- https://github.com/sVanshika
+      Email - vanshikasharma@jklu.edu.in, Mobile - 8890776688
    6. Sanyukta Tanwar- https://github.com/sanyukta0830
+      Email - sanyuktatanwar@jklu.edu.in, Mobile - 9414177538
 
-
+## Mentors:
+   1. Dr. Amit Sinhal - 
+   2. Mr. Santosh Kumar - 
 
 
 

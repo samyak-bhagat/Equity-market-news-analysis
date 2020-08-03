@@ -139,7 +139,7 @@ Data source for corporate actions (CA)
 
 
 
-5.Type of document supported {PDF, MS Word, MS Excel, html, etc.} : PDF,MS Word,html
+5.Type of document supported {PDF, MS Word, MS Excel, html, etc.} : PDFlink,html
 
 
 6.Data collection is scheduled, real time, both: Data collection is on realtime , i.e, whenever the user requests to collect data it will execute and will always get the latest data
@@ -200,7 +200,7 @@ Data source for corporate actions (CA)
    Current data
 		Scrapping of Data
 			->Free Text(News articles , summary of corporate announcements , Blogs)
-			->PDF's(Documents from company of CA)
+			->PDF's links (Documents from company of CA)
 			
 			
 
@@ -211,7 +211,7 @@ Data source for corporate actions (CA)
   
   
   
- 5.Do system compliment / merge data from various sources to make it complete: No
+ 5.Do system compliment / merge data from various sources to make it complete: Yes
 
 
 
@@ -259,7 +259,6 @@ After the successful retrieval and processing of data, the product has to be dis
  >Final Output: Structured Information displayed on UI
  
 2.How data us stored/Data design? 
-  >Data is stored in Mysql Database
   >Data Design
   >Technology / tool used: 
 

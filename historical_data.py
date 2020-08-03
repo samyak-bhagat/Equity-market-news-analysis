@@ -46,6 +46,7 @@ def get_board_meetings(link):
 
         dfs = pd.DataFrame(columns=['Meeting Date', 'Remarks'])
         dfs['Meeting Date'] = date
+        dfs['Meeting Date'] = pd.to_datetime(dfs['Meeting Date'])
         dfs['Remarks'] = remark
 
         return dfs
@@ -79,6 +80,7 @@ def get_dividend(link):
         dfs = pd.DataFrame(columns=['Announcement Date', 'Effective Date', 'Dividend Type', 'Dividend (%)', 'Remarks'])
         dfs['Announcement Date'] = announcement_date
         dfs['Effective Date'] = effective_date
+        dfs['Announcement Date'] = pd.to_datetime(dfs['Announcement Date'])
         dfs['Dividend Type'] = dividend_type
         dfs['Dividend (%)'] = dividend
         dfs['Remarks'] = remarks
@@ -118,8 +120,13 @@ def get_AGM_EGM(link):
 
         dfs = pd.DataFrame(columns=['Announcement Date', 'Purpose', 'Date', 'From', 'Book Closure To', 'Remark'])
         dfs['Announcement Date'] = announcement_date
+        dfs['Announcement Date'] = pd.to_datetime(dfs['Announcement Date'])
         dfs['Purpose'] = purpose
+        
         dfs['Date'] = date
+
+        #dfs['Date'] = pd.to_datetime(dfs['Date'])
+        
         dfs['From'] = date_from
         dfs['Book Closure To'] = book_closure_to
         dfs['Remark'] = remark
@@ -159,6 +166,7 @@ def get_bonus(link):
 
         dfs = pd.DataFrame(columns=['Announcement Date', 'Bonus Ratio', 'Record Date', 'Ex-Bonus Date'])
         dfs['Announcement Date'] = announcement_date
+        dfs['Announcement Date'] = pd.to_datetime(dfs['Announcement Date'])
         dfs['Bonus Ratio'] = bonus_ratio
         dfs['Record Date'] = record_date
         dfs['Ex-Bonus Date'] = ex_bonus_date
@@ -195,6 +203,7 @@ def get_split(link):
 
         dfs = pd.DataFrame(columns=['Announcement Date', 'Old FV', 'New FV', 'Ex-Split Date'])
         dfs['Announcement Date'] = announcement_date
+        dfs['Announcement Date'] = pd.to_datetime(dfs['Announcement Date'])
         dfs['Old FV'] = old_fv
         dfs['New FV'] = new_fv
         dfs['Ex-Split Date'] = ex_split_date
@@ -238,9 +247,11 @@ def get_rights(link):
         dfs = pd.DataFrame(columns=['Announcement Date', 'Rights Ratio', 'Face Value', 'Premium', 'Record Date', 'Ex-Rights Date'])
         dfs['Announcement Date'] = announcement_date
         dfs['Rights Ratio'] = rights_ratio
+        
         dfs['Face Value'] = face_value
         dfs['Premium'] = premium
         dfs['Record Date'] = record_date
+        dfs['Announcement Date'] = pd.to_datetime(dfs['Announcement Date'])
         dfs['Ex-Rights Date'] = ex_rights_date
 
         return dfs

@@ -84,13 +84,13 @@ Extract important information from retrieved pages/files on corporate action
 
 
   
-## **Architecture Diagram** 
+## **ARCHITECTURE DIAGRAM ** 
   
  ![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
   
 
   
-## **1. Web Scraping**
+## **Web Scraping**
       > Moneycontrol - @https://www.moneycontrol.com/
       > Rediff.com - @https://www.rediff.com/
       > Livemint - @https://www.livemint.com/
@@ -112,7 +112,7 @@ Extract important information from retrieved pages/files on corporate action
 
 
 
-## **ML MODEL**
+## **ML MODEL **
    >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations[https://github.com/codracker/sm445_Data_Pirates/blob/master/InformationExtraction/NLPmodel.ipynb]
 
 
@@ -123,10 +123,10 @@ Data source for corporate actions (CA)
 1.Is it configurable, if yes then what all is configurable?   **Yes**, it is configurable , we are parsing the html code of the website from which we are extracting tabular value , paragraphs(free text) and document links. 
 
 2.Does it support any source, or only specific sources? Name them if specific: It supports multiple sources:-
- 1. www.moneycontrol.com
- 2. https://money.rediff.com/companies/news/Bonus
- 3. www.screener.in
- 4. https://mnacritique.mergersindia.com/
+ > www.moneycontrol.com
+ > money.rediff.com/companies/news/Bonus
+ > www.screener.in
+ > mnacritique.mergersindia.com -->/search/bse?s=bse&category=M-and-A-Digest#
 
 3.Does system support intelligent crawling to identify which all sources can provide data?: No
 
@@ -258,6 +258,10 @@ After the successful retrieval and processing of data, the product has to be dis
  >Output of extraction tool: Data extracted by SpaCy model
  >Final Output: Structured Information displayed on UI
  
+2.How data us stored/Data design? 
+  >Data is stored in Mysql Database
+  >Data Design
+  >Technology / tool used: 
 
 
 
@@ -268,9 +272,8 @@ No. paid features and data provided is free of cost to the user plus we have pro
 
 ## **WOW Factor **
 The most amazing part is the reliability. For the reliability two things have been take that is:
-     1. Source score
-     2. Frequency
-      
-      i.e. Reliability = Source Score + Frequency
+ 1. Source score
+ 2. Frequency
  
- 
+## ** Performance Stats. **
+Efficient retrieval of information from the web via scraper plus data is store in the database, we just need to call the data from there and Machine Learning (NLP) improves itself and learn from data it process and get itself better and more accurate by the time.

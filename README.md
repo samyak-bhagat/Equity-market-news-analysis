@@ -250,7 +250,7 @@ After the successful retrieval and processing of data, the product has to be dis
 
 
 
-##**Data Management**
+## **Data Management**
 1.What is captured by system {Raw input data, Output of extraction tool, Final output}: 
  >Raw input data: Data is  web-scraped
  >Output of extraction tool: Data extracted by SpaCy model
@@ -268,7 +268,7 @@ No. paid features and data provided is free of cost to the user plus we have pro
 
 
 
-## **WOW Factor **
+## **WOW Factor**
 The most amazing part is the reliability. For the reliability two things have been take that is:
  1. Source score
  2. Frequency

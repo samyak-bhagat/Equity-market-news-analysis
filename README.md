@@ -276,3 +276,5 @@ The most amazing part is the reliability. For the reliability two things have be
  
 ## ** Performance Stats. **
 Efficient retrieval of information from the web via scraper plus data is store in the database, we just need to call the data from there and Machine Learning (NLP) improves itself and learn from data it process and get itself better and more accurate by the time.
+
+

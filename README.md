@@ -58,7 +58,6 @@ Extract important information from retrieved pages/files on corporate action
     Database: MySql
 
 
-## **Source code URL**
 	
 
 
@@ -78,14 +77,14 @@ Extract important information from retrieved pages/files on corporate action
      
    
    
-## **Inputs Supported by System**
+
 
 
 [**DESIGN**]
 
 
   
-##**ARCHITECTURE DIAGRAM ** 
+## **ARCHITECTURE DIAGRAM ** 
   
  ![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
   
@@ -200,14 +199,12 @@ Data source for corporate actions (CA)
 		Scrapping of Data
 			->Free Text(News articles , summary of corporate announcements , Blogs)
 			->PDF's(Documents from company of CA)
-		Processing of The data( Engine )
-			(viral part unse poochlo eek bar)
+			
+			
 
 4.Workflow supported:
-   i.New announcements of CA
-   ii.Modifications
-   iii.Cancellations
-   iv.Market talks of CA before announcement
+   i.New announcements of CA: Yes
+  
    
   
   

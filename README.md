@@ -118,7 +118,7 @@ Extract important information from retrieved pages/files on corporate action
 
 
 
-##**ML MODEL **
+## **ML MODEL **
    >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations
 
 
@@ -155,7 +155,7 @@ Data source for corporate actions (CA)
 
 
 
-##**Data Extraction**
+## **Data Extraction**
 
 1.How is data extracted?: Web crawler outputs continous stream of data (Text strings) which is fed into NLP model.
 
@@ -178,7 +178,7 @@ Data source for corporate actions (CA)
 
 
 
-##**Corporate Action scope covered.**
+## **Corporate Action scope covered.**
 1.CA types supported- Dividends,
                     Could be extended to :Bonus, Splits,AGM/EGM(Board Meetings),Mergers & Acquisitions
                     
@@ -221,11 +221,11 @@ Data source for corporate actions (CA)
 
 
 
-##**Quality of data**
+## **Quality of data**
 []
 
 
-##**Usability**
+## **Usability**
 1.Type of application {Mobile, Web, Desktop}: Deployed on Web
 2.Actions user can perform with this system: View information about company' corporate action as well as download the output.
 3.GUI for application: Streamlit
@@ -272,3 +272,4 @@ After the successful retrieval and processing of data, the product has to be dis
 
 
 ##**Any other features / specialty of system that make it unique**
+

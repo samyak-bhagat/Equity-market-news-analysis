@@ -18,8 +18,12 @@
       Email - sanyuktatanwar@jklu.edu.in, Mobile - 9414177538
 
 ## Mentors:
-   1. Dr. Amit Sinhal - 
-   2. Mr. Santosh Kumar - 
+   1. Dr. Amit Sinhal 
+      Email- amit.sinhal@jklu.edu.in
+      Mobile-
+   2. Mr. Santosh Kumar 
+      Email- santosh.verma@jklu.edu.in
+      Mobile
 
 
 

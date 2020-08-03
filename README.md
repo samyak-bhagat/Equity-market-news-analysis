@@ -78,7 +78,10 @@ Extract important information from retrieved pages/files on corporate action
      
      
  ## **Refrences**
-      1.https://www.investopedia.com/
+      1. https://www.investopedia.com/articles/03/081303.asp
+      2.https://www.barclays.co.uk/smart-investor/investments-explained/funds-etfs-and-investment-trusts/corporate-actions-explained/
+      3.https://en.wikipedia.org/wiki/Corporate_finance
+      4.https://www.referenceforbusiness.com/encyclopedia/Fa-For/Finance.html
       
      
    
@@ -204,9 +207,9 @@ Data source for corporate actions (CA)
    Current data
 		Scrapping of Data
 			->Free Text(News articles , summary of corporate announcements , Blogs)
-			->PDF's links(Documents from company of CA)
+			->PDF's(Documents from company of CA)
 		Processing of The data( Engine )
-			
+			(viral part unse poochlo eek bar)
 
 4.Workflow supported:
    i.New announcements of CA
@@ -271,5 +274,14 @@ After the successful retrieval and processing of data, the product has to be dis
 
 
 
-##**Any other features / specialty of system that make it unique**
+## **Any other features / specialty of system that make it unique**
+No. paid features and data provided is free of cost to the user plus we have provided option to view and download information into protable document format in well structured manner
 
+
+
+## **WOW Factor **
+The most amazing part is the reliability. For the reliability two things have been take that is:
+ 1. Source score
+ 2. Frequency
+ 
+ 

@@ -83,14 +83,13 @@ Extract important information from retrieved pages/files on corporate action
 
 [**DESIGN**]
 
-![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
+
   
 ##**ARCHITECTURE DIAGRAM ** 
   
+ ![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
   
-  
-  
-##**DATA FLOW**
+## **DATA FLOW**
   
 ## **1. Web Scraping**
       > Moneycontrol - @https://www.moneycontrol.com/

@@ -1,10 +1,12 @@
 # sm445_Data_Pirates
 **This repository holds the project under problem statemet SM445 of SIH2020. The problem statement is provided by FIS Global. The project is a corporate action bot.**
 
-[**INTRODUCTION]
+
+
+[**INTRODUCTION**]
+
 
 #**Team Name-Data_Pirates
-
 
 
 ## Contributors to this project are (Team Member - JK Lakshmipat University, Jaipur):
@@ -29,14 +31,14 @@
       EmailID - santosh.verma@jklu.edu.in
       Mobile - +919711492804
 
-##**Problem Statement**
+**Problem Statement**
 The Corporate Action Robot is to be developed for retrieving accurate, and complete information on historical, current, and future expected corporate action in timely manner from free sources.Capability of crawling public web pages to retrieve information (Historical,current, future)
 Ability of process information available in free text format like pdf, and MS word document 
 Extract important information from retrieved pages/files on corporate action
 
 
 
-[RESOURCES]
+[**RESOURCES**]
 
 
 

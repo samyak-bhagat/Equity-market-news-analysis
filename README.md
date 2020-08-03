@@ -221,7 +221,8 @@ Data source for corporate actions (CA)
 
 
 
-
+##**Quality of data**
+[]
 
 
 ##**Usability**
@@ -267,3 +268,7 @@ After the successful retrieval and processing of data, the product has to be dis
   > Data is stored in Mysql Database
   > Data Design
   >Technology / tool used: 
+
+
+
+##**Any other features / specialty of system that make it unique**

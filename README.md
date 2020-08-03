@@ -124,9 +124,9 @@ Data source for corporate actions (CA)
 
 2.Does it support any source, or only specific sources? Name them if specific: It supports multiple sources:-
  1. www.moneycontrol.com
- 2. money.rediff.com/companies/news/Bonus
+ 2. https://money.rediff.com/companies/news/Bonus
  3. www.screener.in
- 4. mnacritique.mergersindia.com -->/search/bse?s=bse&category=M-and-A-Digest#
+ 4. https://mnacritique.mergersindia.com/
 
 3.Does system support intelligent crawling to identify which all sources can provide data?: No
 

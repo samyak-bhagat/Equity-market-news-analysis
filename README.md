@@ -51,20 +51,11 @@ Extract important information from retrieved pages/files on corporate action
     Language: Python3
     Web Browser: Google Chrome/Mozilla Firefox
     Additional Softwares: MS-Excel, Adobe PDF Reader, Notepad
-    Python Language
-            Libraries- Numpy, Pandas, beautifulsoup, urllib, requests
-
-    IDE:
-          Anaconda Distributions(Jupyter)     
-
-    Frontend:
-          Streamlit
-
-    Backend:
-           Spacy
- 
-    Database:
-          MySql
+    Python Language Libraries- Numpy, Pandas, beautifulsoup, urllib, requests
+    IDE: Anaconda Distributions(Jupyter)     
+    Frontend: Streamlit
+    Backend: Spacy
+    Database: MySql
 
 
 ## **Source code URL**
@@ -91,10 +82,12 @@ Extract important information from retrieved pages/files on corporate action
 
 
 [**DESIGN**]
-  
+
+![Architecture](https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg)
   
 ##**ARCHITECTURE DIAGRAM ** 
-  [https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg]  
+  
+  
   
   
 ##**DATA FLOW**

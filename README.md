@@ -258,10 +258,6 @@ After the successful retrieval and processing of data, the product has to be dis
  >Output of extraction tool: Data extracted by SpaCy model
  >Final Output: Structured Information displayed on UI
  
-2.How data us stored/Data design? 
-  > Data is stored in Mysql Database
-  > Data Design
-  >Technology / tool used: 
 
 
 
@@ -274,5 +270,7 @@ No. paid features and data provided is free of cost to the user plus we have pro
 The most amazing part is the reliability. For the reliability two things have been take that is:
      1. Source score
      2. Frequency
+      
+      i.e. Reliability = Source Score + Frequency
  
  

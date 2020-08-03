@@ -94,8 +94,7 @@ Extract important information from retrieved pages/files on corporate action
   
   
 ##**ARCHITECTURE DIAGRAM ** 
-  
-  
+  [https://github.com/codracker/sm445_Data_Pirates/blob/master/Architecture.jpg]  
   
   
 ##**DATA FLOW**

@@ -216,6 +216,14 @@ Data source for corporate actions (CA)
 
 
 ## **Quality of data**
+We based our reliabilty on making the bot intelligent (Human thought centric).
+We are not relying for only one data tuple for every entity related to a Corporate Action. We would be comparing all the 
+entries related to an entity and the best one would be select.
+The inspiration behind this is A* algorithm and human decision making process.
+We would be using 2 heuristics :
+1. Source reliable score: Generated purely upon how many times the source was accurate.
+2. Information frequency score: How many times an information is repeated.
+The cell whith the highest score will be selected for final tuple.
 [https://github.com/codracker/sm445_Data_Pirates/blob/master/Reliability.ipynb]
 
 

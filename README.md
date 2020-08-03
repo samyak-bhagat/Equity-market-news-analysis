@@ -120,7 +120,28 @@ Extract important information from retrieved pages/files on corporate action
 
 ## **3. User Interface** 
 
-Streamlit Installation
+
+
+
+##**ML MODEL **
+   >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations
+
+
+
+##**Corporate Action scope covered.**
+CA types supported- Dividends,
+                    Could be extended to :Bonus, Splits,AGM/EGM(Board Meetings),Mergers & Acquisitions
+Financial market supportedc.Historical / currentd.Workflow supportedi.New announcements of CAii.Modificationsiii.Cancellationsiv.Market talks of CA before announcemente.Do system compliment / merge data from various sources to make it complete
+
+
+
+##**Usability**
+1.Type of application {Mobile, Web, Desktop}: Deployed on Web
+2.Actions user can perform with this system: View information about company' corporate action as well as download the output.
+3.GUI for application: Streamlit
+4.Input to system and its corresponding output:  Company Selection by user and output regarding company's corporate action/announcements 
+5.User overrides / customization possibilities: 
+6.Technology / tool used: Streamlit Installation
 >pip install streamlit
 
 To run Streamlit
@@ -147,5 +168,13 @@ After the successful retrieval and processing of data, the product has to be dis
 
 
 
-##**ML MODEL**
-   >NLP by Spacy using NER(Name Entity Recognition)with custom entities and annotations
+##**Data Management**
+1.What is captured by system {Raw input data, Output of extraction tool, Final output}: 
+ >Raw input data: Data is  web-scraped
+ >Output of extraction tool: Data extracted by SpaCy model
+ >Final Output: Structured Information displayed on UI
+ 
+2.How data us stored/Data design? 
+  > Data is stored in Mysql Database
+  > Data Design
+  >Technology / tool used: 

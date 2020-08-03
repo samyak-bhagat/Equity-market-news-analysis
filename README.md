@@ -164,7 +164,7 @@ Data source for corporate actions (CA)
 1.How is data extracted?: Web crawler outputs continous stream of data (Text strings) which is fed into NLP model.
 
 
-2.What all datapoints systems can extract from free text?: NLP model: A built-in RNN is trained on Spacy library with custom entities.
+2.What all datapoints systems can extract from free text?: NLP model: A built-in RNN is trained on Spacy library with custom entities[https://github.com/codracker/sm445_Data_Pirates/blob/master/InformationExtraction/NLPmodel.ipynb].
 
 
 3.Types of documents successfully processed : This neural net identifies pattern in data, as the position of entity present.System is able to extract key points related to considered corporate actions.

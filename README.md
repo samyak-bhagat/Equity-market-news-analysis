@@ -19,11 +19,11 @@
 
 ## Mentors:
    1. Dr. Amit Sinhal 
-      Email- amit.sinhal@jklu.edu.in
-      Mobile-
+      Email - amit.sinhal@jklu.edu.in
+      Mobile - +919425476655
    2. Mr. Santosh Kumar 
-      Email- santosh.verma@jklu.edu.in
-      Mobile
+      Email - santosh.verma@jklu.edu.in
+      Mobile - +919711492804
 
 
 

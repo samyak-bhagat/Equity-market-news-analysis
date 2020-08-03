@@ -68,7 +68,7 @@ Extract important information from retrieved pages/files on corporate action
       > Deploying on UI(Streamlit)
      
      
- ## **Refrences**
+ ## **References**
       1. https://www.investopedia.com/articles/03/081303.asp
       2.https://www.barclays.co.uk/smart-investor/investments-explained/funds-etfs-and-investment-trusts/corporate-actions-explained/
       3.https://en.wikipedia.org/wiki/Corporate_finance

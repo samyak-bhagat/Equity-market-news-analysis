@@ -265,11 +265,11 @@ After the successful retrieval and processing of data, the product has to be dis
 
 
 ## **Any other features / specialty of system that make it unique**
-Yes. paid features and data provided is free of cost to the user plus we have provided option to view and download information into protable document format in well structured manner with important information handling conflicting data and incomplete information.
+Yes(UNIQUE), No paid features and data provided is free of cost to the user plus we have provided option to view and download information into protable document format in well structured manner with important information handling conflicting data and incomplete information.
 
 
 
-## **WOW Factor **
+## ** WOW Factor **
 The most amazing part is the reliability. For the reliability two things have been take that is:
  1. Source score
  2. Frequency
